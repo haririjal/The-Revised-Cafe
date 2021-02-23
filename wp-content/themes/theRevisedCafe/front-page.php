@@ -455,6 +455,7 @@ get_header();
                       
 
             <div class="mu-chef-content">
+            
               <ul class="mu-chef-nav">
               <?php $team_repeater = get_theme_mod( 'team_repeater'); ?>
                 
@@ -488,6 +489,7 @@ get_header();
                 
                 <?php endforeach; ?>
                 </ul>
+               
                 </div>
                 
                 </div>
