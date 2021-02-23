@@ -124,8 +124,7 @@ get_header();
                   </div>
                 </li>
                 <?php endforeach; ?>
-
-                
+            
 
               </ul>
 
@@ -156,6 +155,7 @@ get_header();
             <div class="mu-restaurant-menu-content">
               <ul class="nav nav-tabs mu-restaurant-menu">
               <?php echo "what"; ?>
+\
                 <li class="active"><a href="#breakfast" data-toggle="tab">Breakfast</a></li>
               </ul>
 
